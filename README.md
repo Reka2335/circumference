@@ -1,3 +1,3 @@
 # circumference
 **My first Python library**
-![Изображение кота-тюленя](https://myoctocat.com/assets/images/base-octocat.svg)
+![Изображение кота-тюленя](68747470733a2f2f6d796f63746f6361742e636f6d2f6173736574732f696d616765732f626173652d6f63746f6361742e737667.svg)
